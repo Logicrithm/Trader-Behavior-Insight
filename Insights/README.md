@@ -6,10 +6,8 @@ Analysis of 211,224 trades from Hyperliquid platform (May 2023 - May 2025) corre
 ## Project Structure
 ```
 .
-├── complete_analysis.ipynb              # Full analysis with all 6 insights
+
 ├── master_execution_script.ipynb        # Streamlined analysis pipeline
-├── fear_greed_index.csv                 # Sentiment data (2,644 records)
-├── historical_data.csv                  # Trading data (211,224 trades)
 ├── complete_analysis_dashboard.png      # 9-panel visualization
 ├── comprehensive_insights_dashboard.png # 4-panel simplified dashboard
 ├── timing_heatmaps.png                  # Day×Hour heatmaps
@@ -261,4 +259,5 @@ print(f"Win Rate: {(trader_stats['profitable'].mean()*100):.1f}%")
 Analysis completed for Hyperliquid hiring assignment
 
 ## License
+
 Data sourced from Hyperliquid and Fear & Greed Index. For educational purposes only.
