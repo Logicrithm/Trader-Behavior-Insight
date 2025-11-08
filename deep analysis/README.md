@@ -6,18 +6,9 @@ Comprehensive analysis of 211,224 trades from Hyperliquid platform (May 2023 - M
 ## 📁 Project Structure
 ```
 .
-├── complete_analysis.ipynb              # Statistical analysis (6 insights)
-├── master_execution_script.ipynb        # Streamlined pipeline
-├── complete_ml_analysis.ipynb           # ML models + clustering
+
 ├── deep_insights.ipynb                  # ⭐ Advanced patterns + strategies
-├── fear_greed_index.csv                 # Sentiment data (2,644 records)
-├── historical_data.csv                  # Trading data (211,224 trades)
-├── complete_analysis_dashboard.png      # 9-panel statistical dashboard
-├── comprehensive_insights_dashboard.png # 4-panel simplified dashboard
-├── timing_heatmaps.png                  # Day×Hour heatmaps
-├── ml_performance_complete.png          # 6-panel ML dashboard
 ├── actionable_strategies_dashboard.png  # ⭐ 6-panel strategy dashboard
-├── analysis_report.txt                  # Executive summary
 └── README.md                            # This file
 ```
 
